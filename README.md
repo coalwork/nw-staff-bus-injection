@@ -4,7 +4,7 @@ the coding practices here are simply unbearable; they look like they came straig
 hopefully the next topic that you guys cover is security.
 
 # resources
-one of the best ways to learn how to code is to learn online. in fact, it's the way i taught myself how to code. here are my recommended resources for JavaScript:
+here are some resources for JS that i've used and recommend:
 - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [The Modern Javascript Tutorial](https://javascript.info)
 ***
