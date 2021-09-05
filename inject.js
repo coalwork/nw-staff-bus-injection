@@ -1,4 +1,4 @@
-// auth
+// auth /staff.html
 // NOTE: authorizing a client on the frontend/client-side is bound to leave vulnerabilities.
 // this is why authorization logic should come in the backend/server.
 sessionStorage.setItem('status', 'loggedIn');
