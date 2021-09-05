@@ -8,6 +8,5 @@ one of the best ways to learn how to code is to learn online. in fact, it's the 
 - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [The Modern Javascript Tutorial](https://javascript.info)
 ***
-have you learned a lesson?\
-\- coalwork, sophmore at NWHS \
+
 email: coaltempor@gmail.com
